@@ -1,7 +1,7 @@
 Data-Table
 ==========
 
-DataTables Editor v1.3.3 library with data table multiselect and input type file options
+DataTables Editor v1.3.3.1 library with data table multiselect and input type file options
 
 If you ant to add input type "file" in data table form simply add this dataTables.editor.min.js and following code:
 
